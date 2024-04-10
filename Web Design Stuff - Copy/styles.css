@@ -1,0 +1,28 @@
+body{
+    background-color: navajowhite;
+    color: rgb(4, 16, 46); /*text color*/
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif   }
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+a{
+    color: rgb(0, 0, 93);}
+    a:visited{color: rgb(79, 39, 117);}
+img{
+    border: 4px solid rgb(241, 209, 119);
+    padding: 1px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+    font-family: cursive;
+    color: darkslategray;
+    background-color: chartreuse;
+    font-stretch: semi-expanded;
+}
